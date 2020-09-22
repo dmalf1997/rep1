@@ -1,0 +1,5 @@
+C:\Users\User\Documents\SharpDevelop Projects\Adapter\Adapter\bin\Debug\Adapter.exe
+C:\Users\User\Documents\SharpDevelop Projects\Adapter\Adapter\bin\Debug\Adapter.pdb
+C:\Users\User\Documents\SharpDevelop Projects\Adapter\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\SharpDevelop Projects\Adapter\Adapter\obj\Debug\Adapter.exe
+C:\Users\User\Documents\SharpDevelop Projects\Adapter\Adapter\obj\Debug\Adapter.pdb

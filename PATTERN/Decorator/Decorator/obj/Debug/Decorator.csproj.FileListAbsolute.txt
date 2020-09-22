@@ -1,0 +1,5 @@
+C:\Users\User\Documents\SharpDevelop Projects\Decorator\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\SharpDevelop Projects\Decorator\Decorator\bin\Debug\Decorator.exe
+C:\Users\User\Documents\SharpDevelop Projects\Decorator\Decorator\bin\Debug\Decorator.pdb
+C:\Users\User\Documents\SharpDevelop Projects\Decorator\Decorator\obj\Debug\Decorator.exe
+C:\Users\User\Documents\SharpDevelop Projects\Decorator\Decorator\obj\Debug\Decorator.pdb

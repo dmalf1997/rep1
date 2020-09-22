@@ -1,0 +1,5 @@
+C:\Users\User\Documents\SharpDevelop Projects\Template Method\Template Method\obj\Debug\Template Method.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\SharpDevelop Projects\Template Method\Template Method\bin\Debug\Template Method.exe
+C:\Users\User\Documents\SharpDevelop Projects\Template Method\Template Method\bin\Debug\Template Method.pdb
+C:\Users\User\Documents\SharpDevelop Projects\Template Method\Template Method\obj\Debug\Template Method.exe
+C:\Users\User\Documents\SharpDevelop Projects\Template Method\Template Method\obj\Debug\Template Method.pdb

@@ -1,0 +1,5 @@
+C:\Users\User\Documents\SharpDevelop Projects\Singleton\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\SharpDevelop Projects\Singleton\Singleton\bin\Debug\Singleton.exe
+C:\Users\User\Documents\SharpDevelop Projects\Singleton\Singleton\bin\Debug\Singleton.pdb
+C:\Users\User\Documents\SharpDevelop Projects\Singleton\Singleton\obj\Debug\Singleton.exe
+C:\Users\User\Documents\SharpDevelop Projects\Singleton\Singleton\obj\Debug\Singleton.pdb

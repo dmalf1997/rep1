@@ -1,0 +1,5 @@
+C:\Users\User\Documents\SharpDevelop Projects\Abstract Factory\Abstract Factory\bin\Debug\Abstract Factory.exe
+C:\Users\User\Documents\SharpDevelop Projects\Abstract Factory\Abstract Factory\bin\Debug\Abstract Factory.pdb
+C:\Users\User\Documents\SharpDevelop Projects\Abstract Factory\Abstract Factory\obj\Debug\Abstract Factory.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\SharpDevelop Projects\Abstract Factory\Abstract Factory\obj\Debug\Abstract Factory.exe
+C:\Users\User\Documents\SharpDevelop Projects\Abstract Factory\Abstract Factory\obj\Debug\Abstract Factory.pdb
